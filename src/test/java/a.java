@@ -6,5 +6,11 @@ public class a {
         System.out.println("gdfjhshkjfhsdkjf");
         System.out.println("zhengyi");
         System.out.println("shdfdhsjfhsdkjfhsdihf");
+        System.out.println("zhengyi"); 
+        System.out.println("zhengyi");
+         System.out.println("zhengyi");
+         System.out.println("zhengyi");
+         System.out.println("zhengyi");
+        
     }
 }
